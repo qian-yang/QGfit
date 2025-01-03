@@ -1,0 +1,12 @@
+
+numpy==1.23.3
+scipy==1.10.1
+matplotlib==3.7.1
+pandas==1.4.4
+astropy==5.2.2
+lmfit==1.2.1
+emcee==3.1.4
+asteval==0.9.30
+sfdmap==0.1.1
+extinction==0.4.6
+corner==2.2.1
